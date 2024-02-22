@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownImageExporter", "MarkdownImageExporter\MarkdownImageExporter.csproj", "{7198BD3C-901E-4847-ADE5-6A8EF741523F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickCompressor", "QuickCompressor\QuickCompressor.csproj", "{BF84A400-7ADC-42E8-9C6A-E08D141F04F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleFrame", "ConsoleFrame\ConsoleFrame.csproj", "{2C54545F-42DA-49A6-B9A5-C82B7DCCF9EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PNGToJPEG", "PNGToJPEG\PNGToJPEG.csproj", "{61DB3D53-6389-4657-A355-32AC1D0569D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7198BD3C-901E-4847-ADE5-6A8EF741523F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7198BD3C-901E-4847-ADE5-6A8EF741523F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7198BD3C-901E-4847-ADE5-6A8EF741523F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7198BD3C-901E-4847-ADE5-6A8EF741523F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF84A400-7ADC-42E8-9C6A-E08D141F04F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF84A400-7ADC-42E8-9C6A-E08D141F04F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF84A400-7ADC-42E8-9C6A-E08D141F04F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF84A400-7ADC-42E8-9C6A-E08D141F04F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C54545F-42DA-49A6-B9A5-C82B7DCCF9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C54545F-42DA-49A6-B9A5-C82B7DCCF9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C54545F-42DA-49A6-B9A5-C82B7DCCF9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C54545F-42DA-49A6-B9A5-C82B7DCCF9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DB3D53-6389-4657-A355-32AC1D0569D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DB3D53-6389-4657-A355-32AC1D0569D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DB3D53-6389-4657-A355-32AC1D0569D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DB3D53-6389-4657-A355-32AC1D0569D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
